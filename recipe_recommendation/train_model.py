@@ -11,6 +11,27 @@ from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 from xgboost import XGBClassifier, callback
 
+from recipe_recommendation.candidate import (
+    ml_generate_candidates,
+    rule_generate_candidates,
+)
+from recipe_recommendation.feature import build_features
+from recipe_recommendation.parser import get_parent, parse_list, parse_set
+
+BASE_DIR = Path(__file__).resolve().parent
+import json
+import os
+import random
+from pathlib import Path
+
+import joblib
+import numpy as np
+import pandas as pd
+from sklearn.metrics import classification_report, roc_auc_score
+from sklearn.model_selection import train_test_split
+from tqdm import tqdm
+from xgboost import XGBClassifier, callback
+
 from .candidate import ml_generate_candidates, rule_generate_candidates
 from .feature import build_features
 from .parser import get_parent, parse_list, parse_set
@@ -128,6 +149,13 @@ def cold_start_classifier(user_id="user_1", recipes_file=None, n_rounds=2000, to
         df_chunk = chunks[chunk_id].copy()
 
         # Sample pantry with preferences and sticky logic
+        user_parents = sample_user_parents(
+            str(BASE_DIR / "outputs" / "parent_category_map.json"),
+            user_profile=user_profile,
+            prev_inventory=prev_inventory,
+            min_items=3, max_items=10,
+            keep_ratio=0.6,
+            reset_interval=20,   # force reset every 20 rounds
         user_parents = sample_user_parents(
             str(BASE_DIR / "outputs" / "parent_category_map.json"),
             user_profile=user_profile,

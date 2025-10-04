@@ -1,3 +1,8 @@
+import joblib
+import numpy as np
+import pandas as pd
+
+from recipe_recommendation.feature import build_features
 import pandas as pd
 import numpy as np
 from .feature import build_features
@@ -45,6 +50,22 @@ def rule_generate_candidates(df, user_parents, user_profile):
         base_score = scorer.score_recipe_rule(recipe_parents, user_parents)
 
         # Build feature dict
+        recipe_dict = {
+            "main": row["main_parent"],
+            "staple": row["staple_parent"],
+            "other": row["other_parent"],
+            "seasoning": row.get("seasoning_parent", set()),
+            "matched_main": len(row["main_parent"] & set(user_parents)),
+            "matched_staple": len(row["staple_parent"] & set(user_parents)),
+            "matched_other": len(row["other_parent"] & set(user_parents)),
+            "calories": row.get("calories", 0),
+            "protein": row.get("protein", 0),
+            "fat": row.get("fat", 0),
+            "region": row.get("region", ""),
+            "cuisine_attr": row.get("cuisine_attr", []),
+            "contains_meat": row.get("contains_meat", False),
+            "minutes": row.get("minutes", None),
+        }
         recipe_dict = {
             "main": row["main_parent"],
             "staple": row["staple_parent"],
@@ -142,6 +163,21 @@ def ml_generate_candidates(df, user_parents, user_profile, model_path, topk=5, p
 
     feature_rows = []
     for _, row in rule_candidates.iterrows():
+        recipe_dict = {
+            "main": row["main_parent"],
+            "staple": row["staple_parent"],
+            "other": row["other_parent"],
+            "matched_main": len(row["main_parent"] & set(user_parents)),
+            "matched_staple": len(row["staple_parent"] & set(user_parents)),
+            "matched_other": len(row["other_parent"] & set(user_parents)),
+            "calories": row.get("calories", 0),
+            "protein": row.get("protein", 0),
+            "fat": row.get("fat", 0),
+            "region": row.get("region", ""),
+            "cuisine_attr": row.get("cuisine_attr", []),
+            "contains_meat": row.get("contains_meat", False),
+            "minutes": row.get("minutes", None),
+        }
         recipe_dict = {
             "main": row["main_parent"],
             "staple": row["staple_parent"],

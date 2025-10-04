@@ -12,6 +12,7 @@ from uuid import uuid4
 import gradio as gr
 import pandas as pd
 
+from fridge_detect.config import load_roboflow_credentials
 from fridge_detect.detect import detect_and_generate
 from recipe_recommendation.main import load_recipes, recommend_recipes
 
@@ -23,6 +24,9 @@ ARTIFACTS_DIR.mkdir(exist_ok=True)
 RECIPES_DF = load_recipes()
 REGION_OPTIONS = sorted({region for row in RECIPES_DF["region"] for region in row})
 CUISINE_OPTIONS = sorted({cuisine for row in RECIPES_DF["cuisine_attr"] for cuisine in row})
+ROBOFLOW_API_KEY, ROBOFLOW_PROJECT = load_roboflow_credentials()
+ROBOFLOW_PROJECT = ROBOFLOW_PROJECT or "nutrition-object-detection"
+ROBOFLOW_STATUS = "found" if ROBOFLOW_API_KEY else "missing"
 DEFAULT_USER_ID = "user1"
 
 
@@ -168,6 +172,13 @@ def run_pipeline(
             use_cached_detection = False  # fall back to live detection
 
     if detection_payload is None:
+        api_key, project_name = load_roboflow_credentials()
+        project_name = project_name or ROBOFLOW_PROJECT
+
+        if not api_key:
+            return (
+                str(image_path),
+                "Roboflow API key missing. Add it to roboflow_credentials.txt or enable cached detection for demo images.",
         if not api_key:
             return (
                 str(image_path),
@@ -263,6 +274,8 @@ def build_interface() -> gr.Blocks:
                     label="Use cached detections for demo images (no API key needed)",
                     value=True,
                 )
+                gr.Markdown(
+                    f"Using Roboflow credentials from `roboflow_credentials.txt` (project: `{ROBOFLOW_PROJECT}`, key {ROBOFLOW_STATUS})."
                 api_key_input = gr.Textbox(
                     label="Roboflow API key",
                     type="password",

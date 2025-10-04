@@ -19,6 +19,8 @@ import supervision as sv
 from roboflow import Roboflow
 from sklearn.cluster import KMeans
 
+from .config import load_roboflow_credentials
+
 def compute_area_ratios(predictions, img_shape):
     """Compute area ratio (bbox area / image area) for each detection."""
     img_area = float(img_shape[0] * img_shape[1])
@@ -39,6 +41,7 @@ def cluster_sizes(area_ratios):
 def detect_and_generate(
     image_path: str,
     api_key: Optional[str] = None,
+    project_name: Optional[str] = None,
     project_name: str = "nutrition-object-detection",
     version: int = 1,
     conf_threshold: float = 0.4,
@@ -83,6 +86,17 @@ def detect_and_generate(
         the annotated image on disk.
     """
 
+    credentials_api, credentials_project = load_roboflow_credentials()
+
+    if project_name is None:
+        project_name = credentials_project or "nutrition-object-detection"
+
+    api_key = api_key or os.getenv("ROBOFLOW_API_KEY") or credentials_api
+    if not api_key:
+        raise ValueError(
+            "A Roboflow API key is required. Provide it as a function argument, "
+            "set the ROBOFLOW_API_KEY environment variable, or add it to "
+            "roboflow_credentials.txt."
     api_key = api_key or os.getenv("ROBOFLOW_API_KEY")
     if not api_key:
         raise ValueError(
