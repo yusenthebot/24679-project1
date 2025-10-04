@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {"name": "chicken breast", "quantity": "large", "confidence": 0.92},
+    {"name": "broccoli", "quantity": "large", "confidence": 0.88},
+    {"name": "carrot", "quantity": "small", "confidence": 0.82},
+    {"name": "bell pepper", "quantity": "small", "confidence": 0.75},
+    {"name": "garlic", "quantity": "small", "confidence": 0.73}
+  ],
+  "high_confidence_ingredients": [
+    "chicken breast",
+    "broccoli",
+    "carrot"
+  ],
+  "low_confidence_ingredients": [
+    "bell pepper",
+    "garlic"
+  ]
+}

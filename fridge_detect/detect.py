@@ -9,13 +9,15 @@ Detect ingredients using a Roboflow model with preprocessing:
 
 import json
 import os
+import tempfile
+from pathlib import Path
+from typing import Any, Dict, List, Optional, Tuple
+
 import cv2
 import numpy as np
-import matplotlib.pyplot as plt
+import supervision as sv
 from roboflow import Roboflow
 from sklearn.cluster import KMeans
-import supervision as sv
-import tempfile
 
 def compute_area_ratios(predictions, img_shape):
     """Compute area ratio (bbox area / image area) for each detection."""
@@ -36,34 +38,59 @@ def cluster_sizes(area_ratios):
 
 def detect_and_generate(
     image_path: str,
-    api_key: str,
-    project_name: str,
-    version: int,
+    api_key: Optional[str] = None,
+    project_name: str = "nutrition-object-detection",
+    version: int = 1,
     conf_threshold: float = 0.4,
     overlap_threshold: float = 0.3,
     conf_split: float = 0.7,
-    output_json: str = "recipe_input.json",
-    output_image: str = "annotated_image.jpg"
-):
-    """
-    Resize image if necessary, run detection, classify sizes via K-Means, and
-    create both JSON output and annotated image.
+    output_json: Optional[str] = None,
+    output_image: Optional[str] = None,
+) -> Tuple[Dict[str, Any], str]:
+    """Run Roboflow detection and create assets for the recipe recommender.
 
-    Args:
-        image_path (str): Path to the original image.
-        api_key (str): Roboflow API key.
-        project_name (str): Roboflow project name.
-        version (int): Model version.
-        conf_threshold (float): Minimum confidence threshold (0–1).
-        overlap_threshold (float): NMS overlap threshold (0–1).
-        conf_split (float): Threshold for high/low confidence lists.
-        output_json (str): Output JSON filename.
-        output_image (str): Output annotated image filename.
+    Parameters
+    ----------
+    image_path:
+        Path to the input image.
+    api_key:
+        Roboflow API key. If ``None``, the function will look for the
+        ``ROBOFLOW_API_KEY`` environment variable.
+    project_name:
+        Roboflow project slug.
+    version:
+        Version number of the deployed model.
+    conf_threshold:
+        Minimum confidence threshold (0–1) for keeping detections.
+    overlap_threshold:
+        Non-maximum suppression overlap threshold (0–1).
+    conf_split:
+        Confidence threshold used to split ingredients into high/low
+        confidence buckets for the recommender.
+    output_json:
+        Optional path where the generated JSON payload should be saved. If
+        ``None`` the file will be saved next to ``image_path`` with the name
+        ``recipe_input.json``.
+    output_image:
+        Optional path for the annotated image. If ``None`` the annotated image
+        will be created next to ``image_path`` with the name
+        ``annotated_image.jpg``.
 
-    Returns:
-        dict: Recipe input JSON structure.
+    Returns
+    -------
+    Tuple[Dict[str, Any], str]
+        A tuple containing the generated recipe JSON payload and the path to
+        the annotated image on disk.
     """
-    # Load original image
+
+    api_key = api_key or os.getenv("ROBOFLOW_API_KEY")
+    if not api_key:
+        raise ValueError(
+            "A Roboflow API key is required. Provide it as a function argument "
+            "or set the ROBOFLOW_API_KEY environment variable."
+        )
+
+    image_path = str(image_path)
     original_img = cv2.imread(image_path)
     if original_img is None:
         raise FileNotFoundError(f"Image not found: {image_path}")
@@ -122,7 +149,12 @@ def detect_and_generate(
         "low_confidence_ingredients": low_conf
     }
 
-    # Write JSON to file
+    input_path = Path(image_path).resolve()
+    if output_json is None:
+        output_json = str(input_path.with_name("recipe_input.json"))
+    if output_image is None:
+        output_image = str(input_path.with_name("annotated_image.jpg"))
+
     with open(output_json, "w", encoding="utf-8") as jf:
         json.dump(recipe_json, jf, indent=4)
 
@@ -147,13 +179,6 @@ def detect_and_generate(
 
     cv2.imwrite(output_image, annotated_img)
 
-    # Display annotated image (optional, for notebooks)
-    plt.figure(figsize=(8, 8))
-    plt.imshow(cv2.cvtColor(annotated_img, cv2.COLOR_BGR2RGB))
-    plt.axis("off")
-    plt.title("Annotated Image with K-Means Size Labels")
-    plt.show()
-
     # Clean up temporary file
     if height != 640 or width != 640:
         try:
@@ -162,13 +187,26 @@ def detect_and_generate(
             # If still locked on Windows, delay deletion or log a warning
             pass
 
-    return recipe_json
+    return recipe_json, output_image
 
-# Example call:
-result_json = detect_and_generate(
-    image_path="demo/t2.jpg",
-    api_key="t2nRJrn7ppJIC8RGHdwk",
-    project_name="nutrition-object-detection",
-    version=1
-)
-print(json.dumps(result_json, indent=4))
+
+def describe_ingredients(payload: Dict[str, Any]) -> List[str]:
+    """Return formatted ingredient strings for UI previews."""
+
+    lines: List[str] = []
+    for ing in payload.get("ingredients", []):
+        name = ing.get("name", "unknown")
+        quantity = ing.get("quantity", "?")
+        confidence = ing.get("confidence", 0)
+        lines.append(f"{name} ({quantity}, conf={confidence:.2f})")
+    return lines
+
+
+if __name__ == "__main__":
+    example_image = Path(__file__).parent / "demo" / "t2.jpg"
+    try:
+        result_json, annotated_path = detect_and_generate(str(example_image))
+        print(json.dumps(result_json, indent=4))
+        print(f"Annotated image saved to: {annotated_path}")
+    except Exception as exc:
+        print(f"Detection failed: {exc}")

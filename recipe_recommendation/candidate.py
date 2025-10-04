@@ -45,7 +45,7 @@ def rule_generate_candidates(df, user_parents, user_profile):
             "main": row["main_parent"],
             "staple": row["staple_parent"],
             "other": row["other_parent"],
-            "seasoning": row.get("seasoning_parent", set()), 
+            "seasoning": row.get("seasoning_parent", set()),
             "matched_main": len(row["main_parent"] & set(user_parents)),
             "matched_staple": len(row["staple_parent"] & set(user_parents)),
             "matched_other": len(row["other_parent"] & set(user_parents)),
@@ -55,6 +55,7 @@ def rule_generate_candidates(df, user_parents, user_profile):
             "region": row.get("region", ""),
             "cuisine_attr": row.get("cuisine_attr", []),
             "contains_meat": row.get("contains_meat", False),
+            "minutes": row.get("minutes", None),
         }
         features = build_features(recipe_dict, user_profile)
 
@@ -150,6 +151,7 @@ def ml_generate_candidates(df, user_parents, user_profile, model_path, topk=5, p
             "region": row.get("region", ""),
             "cuisine_attr": row.get("cuisine_attr", []),
             "contains_meat": row.get("contains_meat", False),
+            "minutes": row.get("minutes", None),
         }
         features = build_features(recipe_dict, user_profile)
         feature_rows.append(features)
