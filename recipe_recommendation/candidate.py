@@ -5,11 +5,9 @@ import pandas as pd
 from recipe_recommendation.feature import build_features
 import pandas as pd
 import numpy as np
-from .feature import build_features
 import joblib
 import pandas as pd
 import numpy as np
-from feature import build_features
 import joblib
 
 class Scorer:

@@ -20,10 +20,7 @@ from .candidate import ml_generate_candidates
 from .highlight import print_candidates
 from .parser import get_parent, parse_list, parse_set
 from .train_model import cold_start_classifier, train_model_classifier
-from candidate import ml_generate_candidates
-from highlight import print_candidates
-from parser import get_parent, parse_list, parse_set
-from train_model import cold_start_classifier, train_model_classifier
+
 
 BASE_DIR = Path(__file__).resolve().parent
 RECIPES_FILE = BASE_DIR / "outputs" / "recipes_cleaned_strict.csv"

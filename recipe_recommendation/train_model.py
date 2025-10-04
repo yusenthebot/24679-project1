@@ -35,10 +35,6 @@ from xgboost import XGBClassifier, callback
 from .candidate import ml_generate_candidates, rule_generate_candidates
 from .feature import build_features
 from .parser import get_parent, parse_list, parse_set
-from candidate import ml_generate_candidates, rule_generate_candidates
-from feature import build_features
-from parser import get_parent, parse_list, parse_set
-
 BASE_DIR = Path(__file__).resolve().parent
 
 
