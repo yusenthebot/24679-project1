@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {"name": "tofu", "quantity": "large", "confidence": 0.9},
+    {"name": "broccoli", "quantity": "large", "confidence": 0.86},
+    {"name": "carrot", "quantity": "small", "confidence": 0.84},
+    {"name": "bell pepper", "quantity": "small", "confidence": 0.78},
+    {"name": "lettuce", "quantity": "small", "confidence": 0.71}
+  ],
+  "high_confidence_ingredients": [
+    "tofu",
+    "broccoli",
+    "carrot"
+  ],
+  "low_confidence_ingredients": [
+    "bell pepper",
+    "lettuce"
+  ]
+}

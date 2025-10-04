@@ -1,0 +1,18 @@
+{
+  "ingredients": [
+    {"name": "beef", "quantity": "large", "confidence": 0.89},
+    {"name": "tortilla", "quantity": "large", "confidence": 0.85},
+    {"name": "lettuce", "quantity": "small", "confidence": 0.82},
+    {"name": "tomato", "quantity": "small", "confidence": 0.8},
+    {"name": "cheddar cheese", "quantity": "small", "confidence": 0.76}
+  ],
+  "high_confidence_ingredients": [
+    "beef",
+    "tortilla"
+  ],
+  "low_confidence_ingredients": [
+    "lettuce",
+    "tomato",
+    "cheddar cheese"
+  ]
+}
