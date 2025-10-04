@@ -42,7 +42,7 @@ def detect_and_generate(
     image_path: str,
     api_key: Optional[str] = None,
     project_name: Optional[str] = None,
-    project_name: str = "nutrition-object-detection",
+    #project_name: str = "nutrition-object-detection",
     version: int = 1,
     conf_threshold: float = 0.4,
     overlap_threshold: float = 0.3,
@@ -96,7 +96,7 @@ def detect_and_generate(
         raise ValueError(
             "A Roboflow API key is required. Provide it as a function argument, "
             "set the ROBOFLOW_API_KEY environment variable, or add it to "
-            "roboflow_credentials.txt."
+            "roboflow_credentials.txt.")
     api_key = api_key or os.getenv("ROBOFLOW_API_KEY")
     if not api_key:
         raise ValueError(

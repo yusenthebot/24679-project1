@@ -155,7 +155,8 @@ def cold_start_classifier(user_id="user_1", recipes_file=None, n_rounds=2000, to
             prev_inventory=prev_inventory,
             min_items=3, max_items=10,
             keep_ratio=0.6,
-            reset_interval=20,   # force reset every 20 rounds
+            reset_interval=20   # force reset every 20 rounds
+        )
         user_parents = sample_user_parents(
             str(BASE_DIR / "outputs" / "parent_category_map.json"),
             user_profile=user_profile,

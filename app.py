@@ -179,6 +179,7 @@ def run_pipeline(
             return (
                 str(image_path),
                 "Roboflow API key missing. Add it to roboflow_credentials.txt or enable cached detection for demo images.",
+            )
         if not api_key:
             return (
                 str(image_path),
@@ -276,6 +277,7 @@ def build_interface() -> gr.Blocks:
                 )
                 gr.Markdown(
                     f"Using Roboflow credentials from `roboflow_credentials.txt` (project: `{ROBOFLOW_PROJECT}`, key {ROBOFLOW_STATUS})."
+                )
                 api_key_input = gr.Textbox(
                     label="Roboflow API key",
                     type="password",
