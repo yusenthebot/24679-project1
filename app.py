@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import os
 import tempfile
 from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
@@ -139,6 +140,8 @@ def format_candidates_table(df: pd.DataFrame) -> pd.DataFrame:
 
 def run_pipeline(
     image: str,
+    api_key: str,
+    project_name: str,
     version: int,
     use_cached_detection: bool,
     vegetarian: bool,
@@ -176,6 +179,10 @@ def run_pipeline(
             return (
                 str(image_path),
                 "Roboflow API key missing. Add it to roboflow_credentials.txt or enable cached detection for demo images.",
+        if not api_key:
+            return (
+                str(image_path),
+                "Roboflow API key missing. Provide a key or enable cached detection for demo images.",
                 "",
                 pd.DataFrame(),
             )
@@ -269,6 +276,15 @@ def build_interface() -> gr.Blocks:
                 )
                 gr.Markdown(
                     f"Using Roboflow credentials from `roboflow_credentials.txt` (project: `{ROBOFLOW_PROJECT}`, key {ROBOFLOW_STATUS})."
+                api_key_input = gr.Textbox(
+                    label="Roboflow API key",
+                    type="password",
+                    placeholder="Paste your key or set ROBOFLOW_API_KEY environment variable",
+                    value=os.getenv("ROBOFLOW_API_KEY", ""),
+                )
+                project_input = gr.Textbox(
+                    label="Roboflow project name",
+                    value="nutrition-object-detection",
                 )
                 version_input = gr.Number(label="Model version", value=1, precision=0)
                 topk_input = gr.Slider(
@@ -324,6 +340,8 @@ def build_interface() -> gr.Blocks:
             fn=run_pipeline,
             inputs=[
                 image_input,
+                api_key_input,
+                project_input,
                 version_input,
                 use_cached,
                 vegetarian_toggle,

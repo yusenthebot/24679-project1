@@ -8,6 +8,7 @@ This repository combines a Roboflow-powered ingredient detector with a personali
 - **Recipe recommendation** – Map detected ingredients to parent categories, score recipes with a hybrid rule/ML ranker, and highlight matches against user preferences.
 - **Interactive GUI** – Launch a single `python app.py` command to open the Gradio experience with configurable dietary preferences and three demo fridge images.
 - **Demo-friendly** – Toggle "Use cached detections" to explore the workflow without a Roboflow API key, or configure `roboflow_credentials.txt` for live inference.
+- **Demo-friendly** – Toggle "Use cached detections" to explore the workflow without a Roboflow API key, or supply your own key for live inference.
 
 ## Project layout
 
@@ -37,6 +38,15 @@ This repository combines a Roboflow-powered ingredient detector with a personali
 
    - Edit `roboflow_credentials.txt` to add your API key and project slug.
    - Alternatively, set the `ROBOFLOW_API_KEY` environment variable before launching if you prefer not to store it on disk.
+3. **Provide a Roboflow key (optional)**
+
+   - Set the environment variable once:
+
+     ```bash
+     export ROBOFLOW_API_KEY="your-key"
+     ```
+
+   - Or paste it directly into the Gradio sidebar each time you launch the app.
 
 4. **Explore the UI**
 
