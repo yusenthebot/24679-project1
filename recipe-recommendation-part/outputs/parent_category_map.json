@@ -1,0 +1,5127 @@
+{
+  "mead": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "sage": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fig": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hamburger": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "capsicum": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "croissant": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "orange": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "apricot": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "caster": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "aburage": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "dorito": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "champagne": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "string": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "farina": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dal": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "baloney": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "avocado": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gluten": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "advocaat": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pate": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "wafer": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "vinaigrette": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "turnip": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chermoula": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "brandewijn": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bubblegum": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "achar": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "baguette": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kangkong": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "panettone": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "sapodilla": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "glitter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "glaze": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "salsify": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pepper": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sauerkraut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "macadamia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mirliton": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mint": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "frank": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "shallot": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sure-jell": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "duckling": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "chili": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "radicchio": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "masala": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rosemary": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mussel": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "guavaberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cornmeal": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tequila": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "thangkwa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cushaw": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "anchovy": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "waffle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "shoyu": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sumac": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tofunaise": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "saba": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "meringue": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tangerine": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "campari": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "passata": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chickle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rumpleminze": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "eel": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "condiment": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "choco-bake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "beef": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "almond": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rusk": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "parsnip": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "veal": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mace": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "labneh": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "nu-salt": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bleach": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pike": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "montrachet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "seasoning": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pomegranate": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "frog": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "carambola": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gooseberry": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "blintze": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "speck": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "jam": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chutney": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fontina": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "custard": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cod": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "gravy": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pear": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sucanat": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tenderloin": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "culantro": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "knockwurst": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kashkaval": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "nopale": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tamale": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "spearmint": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "honey": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "ale": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cornichon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "skordalia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cheddarwurst": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kirsch": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sirloin": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "hare": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tsubushi-an": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rib": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cochineal": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tubetti": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "oregano": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bologna": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "haggis": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tatsoi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "turkey": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "graviera": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "yuzu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fowl": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "gelato": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "vodka": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "radish": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "feta": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "half-and-half": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "olivada": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "teifi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "biscotti": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "grenadine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pimento": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "celery": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pea": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fettuccine": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hummu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "burghul": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hop": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tagliolini": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lovage": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "m.s.g.": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kumquat": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "icing": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "farfel": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "violet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "epazote": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lemongras": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "liqueur": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "milk": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "harissa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "grit": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "wasa": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "spaghetti": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "beetroot": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bratwurst": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "surimi": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "quinoa": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "speculaa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kale": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "praline": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "konafah": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "edamame": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "salmon": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "angelica": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "katakuriko": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "wheatberry": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rice-a-roni": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "perch": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "meal": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "crispbread": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gourd": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rattlesnake": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "quince": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tahini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "blackberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chabli": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rutabaga": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mache": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "duck": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "eggshell": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tapioca": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "casing": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ajinomoto": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "spirulina": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lingonberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rennet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tomato": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "haeo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "whey": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "butter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "horseradish": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bun": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "crepe": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cassava": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tamari": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "agar": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mushroom": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mistake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "parmigiano": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "lemon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kudzu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "crouton": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "walnut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fryer": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "breadfruit": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "loquat": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "candlenut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "muscatel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fudge": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "curd": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "banana": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "veg-all": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rom": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bottlegourd": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "oleo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bamba": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ganache": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bluefish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cracker": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "saltine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "trefoil": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rhubarb": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lentil": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pipi": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mouthwash": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pepita": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sausage": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "hake": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tomatillo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cucuzza": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "litchi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gingerroot": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "crab": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kokum": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "breadcrumb": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fruitcake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "damson": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "game": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "elephant": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mango": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "amaretto": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "seitan": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "erythritol": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "orecchiette": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "weetabix": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ajwain": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cayenne": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cockle": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "nectarine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sloe": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mustard": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "breadstick": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "coffee-mate": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "choko": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "jar": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "coke": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tarragon": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "grapefruit": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "potpourri": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chicken": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "olive": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "wattleseed": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bockwurst": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pernod": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "crisco": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "parsley": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pickle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "grouper": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "muskellunge": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "roux": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "dripping": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tuna": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "escargot": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "sorghum": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mizuna": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "charmagaz": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gherkin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dove": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kefalotiri": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "jalapeno": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cornbread": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "vegeta": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "seafood": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "monkfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "m&m'": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "lotion": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chive": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gorgonzola": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "sago": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cookie": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "clementine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lauki": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rabbit": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "samp": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "raspberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "egg": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "octopu": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "celeriac": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sumaq": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shichimi-togarashi": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "candy": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "amaretti": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "crostini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "zinfandel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cilantro": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cheesecake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "clove": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kumara": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "candle": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "catsup": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "potato": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "scungilli": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "whitebait": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "macaroon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "liquor": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "prosciutto": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "stick": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kamut": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "truvia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "elderberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pigeon": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "molukhia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pierogy": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "preserve": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "poundcake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "sorbet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "honeydew": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pawpaw": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "salsa": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bisquick": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "caponata": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "honey-molass": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tortilla": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "linseed": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fructose": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "squirrel": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "sultana": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bulgur": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "conch": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "caramel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "oxtail": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pimiento": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nonpareil": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rotel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marrow": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "curcumae": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "brisket": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "zucchini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "soyaki": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fructevia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "roti": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "maltitol": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cabbage": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "galliano": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "squid": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "skewer": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "radiatore": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "peppercorn": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gnocchi": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "fiddlehead": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "psyllium": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "certo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "aioli": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "quatre-epice": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mawa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bacon": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kielbasa": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "saltpeter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "glucomannan": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "papaya": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "meatloaf": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cherimoya": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "artichoke": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lox": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "escarole": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "vermouth": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kefalotyri": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "mascarpone": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cashew": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "coca-cola": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "giardiniera": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "strawberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "boysenberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "blueberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dewberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cucumber": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "salt": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "puri": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pista": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "eggplant": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ajvar": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "whitefish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "rapini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lollipop": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "borax": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "plum": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "anthotiro": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "broccolini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "liempo": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "courgette": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "verju": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gravymaster": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "guava": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cannellini": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "curacao": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "besan": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shiso": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sangria": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mettwurst": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "shortcake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "yeast": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "biscuit": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bean": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tangelo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rosebud": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ravioli": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "penne": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "whiskey": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "liver": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cider": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mahlab": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "scallop": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "rambutan": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "morel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fruit": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "broccoli": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "stock": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rucola": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chayote": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "jellyfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ahi": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "napkin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "deer": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "conchiglie": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "molokheya": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kohlrabi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "potash": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pistachio": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marmalade": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marmite": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "chana": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "beet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "raccoon": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "lobster": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "salami": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pretzel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bagel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cuitlacoche": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hawaij": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "snail": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ham": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "umeboshi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "steak": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "stingray": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pineapple": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "barberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "grape": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dipper": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sauterne": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "quahog": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "sorrel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nutria": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "peperkoek": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rum": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ginger": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "charcoal": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lemonade": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "christophene": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "spumanti": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "poultry": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cola": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "posole": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mahleb": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "smelt": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "frangelico": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "stollen": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "treacle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "msg": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "piloncillo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "acorn": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "toothpick": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pecan": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sopressata": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cupcake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "saltwort": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rice": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "caperberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "catfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "quail": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "flounder": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "alfalfa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "masticha": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "spinach": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "frankfurter": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "fillet": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "lambsquarter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hominy": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "persimmon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cuttlefish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ghee": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "green": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tofu": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "soymilk": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gumdrop": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cavatelli": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "recaito": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "wonton": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "muffin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "nutella": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "miso": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "porter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "balloon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dashi": {
+    "category": "seasoning",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "lye": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "venison": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "dill": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "origanum": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ammonia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "frisee": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "stevia": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nutmeat": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nutmeg": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nutrasweet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "poha": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "snackbread": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "squash": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tarhana": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "hen": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tempeh": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "catnip": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "amchur": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "mexicorn": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "coriander": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "endive": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "apple": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "romanesco": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "saffron": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hock": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "arugula": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sole": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "disco": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gingersnap": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "leek": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sardine": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pignoli": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kalonji": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "granadilla": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nadru": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "freekeh": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pastrami": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "hazelnut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tabbouleh": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tostado": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "flour": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "crema": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "moose": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "plantain": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "manicotti": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cabana": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kashk": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "agave": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kamaboko": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "glycerin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ramp": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pati": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "terrapin": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "grain": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lettuce": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "qatayef": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "prune": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mesclun": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "noodle": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "comino": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bangu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "scotch": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "buttermilk": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "alum": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chipit": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "dukkah": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shake-n-bake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rose": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cocoa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "snow": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tasso": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "walleye": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "halibut": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "vermicelli": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "anise": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pasti": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "grouse": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ice": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lychee": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gruyere": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "orzo": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tripe": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "molass": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "trout": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "khubz": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "yam": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "macaroni": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "fat": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marzipan": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cachaca": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "callaloo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sev": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "barley": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "capicola": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "brandy": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "merlot": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gianduja": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "roast": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "boule": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cardamom": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "brinjal": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "amaranth": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "onion": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "loganberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bresaola": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tea": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "armagnac": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "jagermeister": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "mincemeat": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "sesame": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "limeade": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "boniato": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kingfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "gravlax": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "suet": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "toast": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rajma": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "feijoa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "maltose": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marsala": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "scone": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "goldschlager": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "spelt": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "batter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bread": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "maifun": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "vanilla": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cream": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kombu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "challah": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "crackling": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cognac": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "carp": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tarama": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "caribou": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mavrothaphne": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "vitamin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mapleine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "carrot": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "peppermint": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "aubergine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kashi": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "licorice": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "peapod": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bocconcini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bourbon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "copha": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "citron": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "quark": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cranberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "matzoh": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pheasant": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "fondant": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cacao": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "aguardiente": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gur": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "schnapp": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gochujang": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pork": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "paprika": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "watermelon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "asparagu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gremolata": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "caciocavallo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pasta": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "espresso": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pancake": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "recao": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "steak-um": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "salmon-gefilte": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pastina": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "ribbon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "drambuie": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "konbu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "prawn": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tejpatta": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cauliflower": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nopalito": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "aji-no-moto": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "serrano": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shortening": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "chaiman": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "sweetcorn": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tape": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "perejil": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pumpkin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "purslane": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "threebe": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nettle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "popcorn": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pitaya": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "verjuice": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "peach": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sugar": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "canistel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "clam": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "spaghettini": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nutriwhip": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "grappa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shark": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "crabapple": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "javitri": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "habanero": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "frypowder": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ciabatta": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "goose": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "blachan": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tortellini": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "brownie": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "basil": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gelatin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "popsicle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "raisin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "herbsaint": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "weet-bix": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kefir": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pisco": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "durian": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chestnut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tapenade": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kwa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "roqaq": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "wheat": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gingerbread": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "lamington": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kahlua": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "oat": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "halvah": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tartaric": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "eggnog": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "berry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pectin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shortbread": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "wasabi": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dragee": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "taleggio": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cherry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bronzino": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "oatmeal": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lime": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "savory": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "demi-glace": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "crumpet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rapadura": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pollock": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "bagoong": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "chocolate": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "yoghurt": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "bisto": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "galangal": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "okra": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "maypo": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "crabmeat": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ciclon": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "date": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "haddock": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mahlepi": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "opossum": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "achiote": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "aquavit": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "polenta": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "koshi-an": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cloth": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "melon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marshmallow": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "halva": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "jelly": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "soybean": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "saunf": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "okara": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kishke": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "skate": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "vegemite": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "gomashio": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kadaifi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "swede": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "presunto": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mortadella": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "crabstick": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "roll": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "maca": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "water": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rocket": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lamunchi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "peanut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "allspice": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "guacamole": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "piri-piri": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lard": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "tobiko": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "nepitella": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "meat": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mutton": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "malanga": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chitterling": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "langoustine": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "sweetbread": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "sman": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "fideo": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tzatziki": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "coffee": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "seed": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "huckleberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "filbert": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "plaice": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "beer": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cleaner": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ackee": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "gin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rue": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "capon": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "crawfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "alcaparrado": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sansho": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "puree": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cassia": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "vegetable": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pappadam": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lsa": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ovolini": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "consomme": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pierogi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pimm": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "applesauce": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chip": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bream": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "muskmelon": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hing": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "buffalo": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "calvado": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "fusilli": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lutefisk": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cantaloupe": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pig": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mirin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "crevette": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "meatball": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "capellini": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chuck": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "borage": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "margarine": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "lardon": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "scampi": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "doughnut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "wrap": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "wine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "berbere": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "herb": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pastitsio": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "corn": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "couscou": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "extract": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lavender": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "smoky": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "linguine": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cheesecloth": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kombucha": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sprite": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pepsi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "paper": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "millet": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "arrowroot": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "truffle": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ovaltine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "rava": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ladyfinger": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dolcelatte": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "partridge": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "limoncello": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kiwi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "flavoring": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "butterfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mackerel": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "syrup": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "jaggery": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "poi": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "milo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tamarillo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mayonnaise": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "khoya": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "applejack": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "mulberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "jackfruit": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chervil": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "muesli": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "juice": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cremora": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "perciatelli": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kool-aid": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "colby": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "mastic": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pudding": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "baharat": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "risoni": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pimenton": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "yabby": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "marionberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "caviar": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cloudberry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "kimion": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "soup": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "tortiglioni": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tabil": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chickpea": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "oil": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chile": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "brine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "absinthe": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "tallow": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "konjac": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "matzo": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ditalini": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "lamb": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "non-pareil": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "thyme": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shrimp": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cereal": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "panir": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "oyster": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "prosecco": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "malteser": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "craisin": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sparerib": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "cumin": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nashi": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bitter": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "spice": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "swordfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "mole": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "caper": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "glayva": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "rockfish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "nixtamal": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "watercres": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marjoram": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "nori": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sherbet": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "fish": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "peri-peri": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "bouillon": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cheese": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "liverwurst": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "turmeric": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "burrito": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "boar": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "kremelta": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "semolina": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "banger": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "dumpling": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "woodruff": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "yautia": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "vinegar": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pluot": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "jicama": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "liquid": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "spam": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "fennel": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "dahl": {
+    "category": "main",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "schmaltz": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "kelp": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "glue": {
+    "category": "other",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "broiler": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "broth": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "mirepoix": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "calamari": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "coleslaw": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "garlic": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "yogurt": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "cornstarch": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "pickerel": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "nigari": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "relish": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "ouzo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "currant": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "coconut": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "frosting": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "huacatay": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "ketchup": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "shochu": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "teff": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "7-up": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sifting": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "marinade": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "pancetta": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "benedictine": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "chokecherry": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "squab": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "raita": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "starch": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "hyssop": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "karela": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cornflour": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "soppressata": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "pepperoni": {
+    "category": "main",
+    "vegetarian_safe": false,
+    "vegan_safe": false
+  },
+  "ogo": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "chapati": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "cinnamon": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "curry": {
+    "category": "seasoning",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "sauce": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "crust": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": false
+  },
+  "noodles": {
+    "category": "staple",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "vegetables": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "oranges": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "onions": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "flower": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "soda": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "citrus": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "drink": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "salad": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  },
+  "seaweed": {
+    "category": "other",
+    "vegetarian_safe": true,
+    "vegan_safe": true
+  }
+}

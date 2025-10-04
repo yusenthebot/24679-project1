@@ -1,0 +1,27 @@
+Dataset Columns
+
+name: string (recipe name)
+minutes: integer (total time in minutes)
+tags: string → list of strings after parse_list
+n_steps: integer (number of steps)
+steps: string → list of strings after parse_list
+ingredients: string → list of strings after parse_list
+n_ingredients: integer (number of ingredients)
+staple: string → list of strings after parse_list
+main: string → list of strings after parse_list
+seasoning: string → list of strings after parse_list
+other: string → list of strings after parse_list
+staple_parent: string → list of strings after parse_list
+main_parent: string → list of strings after parse_list
+seasoning_parent: string → list of strings after parse_list
+other_parent: string → list of strings after parse_list
+calories: float
+total_fat_pdv: integer
+sugar_pdv: integer
+sodium_pdv: integer
+protein_pdv: integer
+saturated_fat_pdv: integer
+carbohydrates_pdv: integer
+region: string → list of strings after parse_list (usually single value)
+diet_tags: string → list of strings after parse_list
+cuisine_attr: string → list of strings after parse_list
