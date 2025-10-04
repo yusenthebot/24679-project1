@@ -1,0 +1,7 @@
+name,staple,main,seasoning,other,staple_parent,main_parent,seasoning_parent,other_parent,calories,protein,fat,region,cuisine_attr,contains_meat,minutes
+Chicken Stir Fry,['rice'],"['chicken breast', 'broccoli', 'carrot']","['soy sauce', 'ginger']","['bell pepper', 'garlic']",['rice'],"['chicken', 'broccoli', 'carrot']","['sauce', 'ginger']","['pepper', 'garlic']",520,38,18,['Asia'],['Chinese'],True,25
+Tofu Veggie Bowl,['rice'],"['tofu', 'broccoli', 'carrot']","['soy sauce', 'ginger']","['bell pepper', 'lettuce']",['rice'],"['tofu', 'broccoli', 'carrot']","['sauce', 'ginger']","['pepper', 'lettuce']",420,22,12,['Asia'],['Asian Fusion'],False,30
+Salmon Teriyaki,['rice'],"['salmon', 'broccoli']","['soy sauce', 'ginger']",['bell pepper'],['rice'],"['salmon', 'broccoli']","['sauce', 'ginger']",['pepper'],610,42,24,['Asia'],['Japanese'],True,35
+Beef Tacos,['tortilla'],['beef'],"['salt', 'pepper']","['lettuce', 'tomato', 'cheddar cheese']",['tortilla'],['beef'],"['salt', 'pepper']","['lettuce', 'tomato', 'cheese']",680,32,28,['North America'],['Mexican'],True,20
+Pasta Primavera,['spaghetti'],"['broccoli', 'carrot']","['olive oil', 'garlic']","['bell pepper', 'tomato', 'basil']",['spaghetti'],"['broccoli', 'carrot']","['oil', 'garlic']","['pepper', 'tomato', 'basil']",480,16,14,['Europe'],['Italian'],False,30
+Breakfast Scramble,['potato'],['egg'],"['salt', 'pepper']","['bell pepper', 'tomato']",['potato'],['egg'],"['salt', 'pepper']","['pepper', 'tomato']",350,20,15,['North America'],['Brunch'],False,15
