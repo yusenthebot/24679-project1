@@ -11,6 +11,9 @@ from sklearn.model_selection import train_test_split
 from tqdm import tqdm
 from xgboost import XGBClassifier, callback
 
+from .candidate import ml_generate_candidates, rule_generate_candidates
+from .feature import build_features
+from .parser import get_parent, parse_list, parse_set
 from candidate import ml_generate_candidates, rule_generate_candidates
 from feature import build_features
 from parser import get_parent, parse_list, parse_set
